@@ -1,2 +1,2 @@
 # Arduino-Oscilloscope
-An arduino Oscilloscope for Fiber Optics Fizeau–Foucault Apparatus
+An Arduino Oscilloscope for Fiber Optics Fizeau–Foucault Apparatus
