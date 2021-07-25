@@ -4,3 +4,6 @@ An Arduino Oscilloscope for Fiber Optics Fizeau–Foucault Apparatus (And other 
 ## How to use
 6 band Oscilloscope (Port A0-A5), change the adjustable variables in the file for your use case.
 Open the Serial Plotter in the IDE to see the graph, use 115200 baud.
+
+## Calculation
+Use the calculation java file to do the calculations
