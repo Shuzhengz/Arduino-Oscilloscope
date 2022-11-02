@@ -10,3 +10,5 @@ Things that you want to measure, an Arduino UNO board, and quite a bit of wires
 
 ## Calculation
 Use the calculation java file to do the calculations
+
+If you want to know the calculation there's javadoc explaining it, it's really simple
