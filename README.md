@@ -13,3 +13,12 @@ Things that you want to measure, an Arduino UNO board, and quite a bit of wires
 Use the calculation java file to do the calculations
 
 If you want to know the calculation there's javadoc explaining it, it's really simple
+
+## Licensing
+
+This program is under the Unlicense "license"
+
+This means that the software is released into the public domain, and therefore does not technically have a license
+
+The author claims no copyright, copyleft, license or whatsoever for the program itself. You may use, reuse or distribute its binaries or source code in any desired way 
+or form, Useage of binaries or source shall be entirely and without exception at your own risk.
