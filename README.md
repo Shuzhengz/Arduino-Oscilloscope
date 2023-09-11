@@ -14,7 +14,7 @@ Use the calculation java file to do the calculations
 
 If you want to know the calculation there's javadoc explaining it, it's really simple
 
-Acutally it's just one line of equation so yeah idk why I created a java program for it
+Acutally it's just one line of code so yeah I dont know why I created a java program for it
 
 ## Licensing
 
